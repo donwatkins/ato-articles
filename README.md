@@ -1,0 +1,120 @@
+# Don Watkins’s All Things Open articles
+
+Source: [Don Watkins’s author page](https://allthingsopen.org/authors/don-watkins). Each file preserves the published byline, date, source link, article text, and available licensing and credit information. Images are referenced by URL.
+
+- [Teaching Linux is about more than computers](teaching-linux-more-than-computers.md) — November 18, 2026
+- [How to run local LLMs in a container with Ollama and Podman](run-local-llms-container-ollama-podman.md) — October 28, 2026
+- [Why my Podman install failed on macOS](why-my-podman-install-failed-on-macos.md) — October 14, 2026
+- [5 Linux tools to clear cache, remove old packages, and manage logs](5-linux-tools-clear-cache-remove-packages-manage-logs.md) — September 30, 2026
+- [A simple, open source alternative to AirDrop for Linux and Mac users](localsend-open-source-airdrop-alternative-linux-mac.md) — September 16, 2026
+- [PianoBooster: Learning piano again with open source software](pianobooster-learning-piano-open-source-software.md) — September 2, 2026
+- [How to help someone switch to Linux (and make it stick)](how-to-help-someone-switch-to-linux.md) — August 26, 2026
+- [Why open formats matter for preserving what you can’t replace](why-open-formats-matter-preserving-memories.md) — August 12, 2026
+- [Teaching Python with AI: A guide for educators](python-ai-teaching-guide.md) — July 29, 2026
+- [A gift that opened doors: Introducing young learners to Linux](linux-open-source-young-learners.md) — July 15, 2026
+- [How to create self-resetting library accounts with Linux Mint MATE](linux-mint-self-resetting-guest-accounts.md) — July 8, 2026
+- [Linux vs Windows: What open source design brings to security and customization](linux-vs-windows-open-source-benefits.md) — July 1, 2026
+- [How Linux package managers evolved from hours to seconds](linux-package-managers-evolution-apt-yum-pacman.md) — June 24, 2026
+- [Learn Linux file permissions and chmod for beginners](linux-file-permissions-chmod-guide.md) — June 17, 2026
+- [A beginner’s guide for choosing your first Linux distribution](choosing-linux-mint-fedora-manjaro-beginners.md) — June 10, 2026
+- [ClamAV and BleachBit: A one-two punch for Linux security and system maintenance](clamav-bleachbit-linux-security-maintenance.md) — June 3, 2026
+- [Snap vs Flatpak: Which Linux packaging solution is right for you?](snap-flatpak-linux-packaging-guide.md) — May 20, 2026
+- [Getting started with Ubuntu 26.04: Your Linux installation guide](getting-started-ubuntu-26-04-linux-guide.md) — May 13, 2026
+- [PHP powers most of the web, so why aren’t new developers learning it?](why-new-developers-not-learning-php-2026.md) — May 6, 2026
+- [How immutable Linux can save libraries thousands on Windows 11 upgrades](how-immutable-linux-can-save-libraries-thousands-on-windows-11-upgrades.md) — April 25, 2026
+- [My first Waymo ride: How open research shaped autonomous driving](waymo-open-research-self-driving-innovation.md) — April 18, 2026
+- [How Linux Mint gave five “obsolete” library PCs a second life](linux-mint-library-pcs-reduce-ewaste.md) — April 11, 2026
+- [Exploring Manjaro KDE Plasma after years with other Linux distros](manjaro-kde-plasma-arch-linux-experience.md) — April 4, 2026
+- [Repairing a corrupted Windows drive with Linux Mint tools](linux-mint-ntfsfix-clamav-windows-repair.md) — March 18, 2026
+- [QGIS meets mobile: A practical guide to field mapping with MerginMaps](qgis-mobile-field-mapping-merginmaps.md) — March 4, 2026
+- [My first experience with Manjaro Cinnamon as a Linux Mint user](manjaro-cinnamon-linux-mint-user-first-experience.md) — February 25, 2026
+- [Essential shortcuts and tips for faster note-taking](joplin-shortcuts-tips-faster-note-taking.md) — February 18, 2026
+- [Meet the Meerkat: A compact Linux PC with surprising power for developers](system76-meerkat-linux-developer-workstation.md) — February 11, 2026
+- [How to create Windows boot disks on Linux without special tools](create-windows-boot-disks-linux-simple-method.md) — February 4, 2026
+- [System76’s COSMIC desktop: A hands-on tour of Pop!_OS 24.04 LTS](system76-cosmic-desktop-pop-os-24-04-hands-on.md) — January 21, 2026
+- [15 open source backup solutions to protect your data in 2026](15-open-source-backup-solutions-2026.md) — January 14, 2026
+- [Your 2026 quick guide to free Office alternatives](your-2026-quick-guide-to-free-office-alternatives.md) — January 8, 2026
+- [6 must-read Linux and open source tutorials of the year](6-best-linux-open-source-tutorials-2025.md) — December 31, 2025
+- [Zorin OS 18 review: The Linux distro designed for Windows users](zorin-os-18-review-linux-distro-windows-users.md) — December 24, 2025
+- [How to turn any phrase into another language instantly](translate-and-add-text-to-photos.md) — December 21, 2025
+- [Getting started with VirtualBox on Linux: From hobbyist tinkering to production prep](virtualbox-on-linux-getting-started.md) — December 3, 2025
+- [How Linux Mint saved an eight-year-old PC](linux-mint-old-windows-upgrade.md) — November 26, 2025
+- [How I brought old family photos to life with AI colorization](ai-colorize-old-family-photos.md) — November 19, 2025
+- [From libraries to small businesses: Why WordPress remains the open web’s backbone](wordpress-open-web-libraries-small-business.md) — November 12, 2025
+- [12 everyday technologies powered by Linux](12-everyday-technologies-powered-by-linux.md) — November 5, 2025
+- [Can AI take the grunt work out of grant work?](ai-grant-writing-prompts.md) — October 29, 2025
+- [How to use GenAI to create Common Core-aligned lesson plans in minutes](genai-common-core-lesson-plans.md) — October 22, 2025
+- [How I use NotebookLM as my personal research assistant](ai-notebooklm-research-assistant.md) — October 8, 2025
+- [How to plan a low sugar diet using AI in minutes](how-plan-ai-low-sugar-meal-ideas.md) — October 4, 2025
+- [How to batch convert docx files using LibreOffice](batch-convert-docx-files-libreoffice.md) — September 25, 2025
+- [A simple guide to installing Nextcloud with snap on Linux](install-nextcloud-with-snap-on-linux.md) — September 18, 2025
+- [VSCodium for middle school coding: A free, open source way to teach Python](vscodium-python-open-source-vs-code.md) — September 11, 2025
+- [Getting started with Inkscape: The free and open source vector graphics editor](inkscape-free-open-source-vector-graphics-editor.md) — September 4, 2025
+- [Getting started with Jan: A private, open source alternative to ChatGPT](getting-started-with-jan-open-source-chatgpt.md) — August 21, 2025
+- [How I used Pinokio to run OpenAudio and clone a voice in seconds](pinokio-openaudio-voice-cloning.md) — August 14, 2025
+- [Tired of complex AI installs? Try Pinokio](pinokio-facefusion-local-ai-playground.md) — August 7, 2025
+- [Getting started with Darktable: A powerful free, open source photography workflow app](darktable-free-open-source-photographer-workflow-application.md) — July 21, 2025
+- [Solving the right-click touchpad issue on Fedora KDE Plasma 42](right-click-touchpad-se-on-fedora-kde-plasma-42.md) — July 10, 2025
+- [Linux-ready hardware: What to look for before you buy](how-to-linux-ready-hardware-compatibility.md) — July 3, 2025
+- [Getting started with Cronopete for Linux backups](how-to-cronopete-linux-backup.md) — June 26, 2025
+- [KDE Plasma turns your old Windows 10 machine into a modern Linux desktop](kde-plasma-windows-10-modern-linux-desktop.md) — June 17, 2025
+- [Getting started with GIMP: The free and open source image editor](gimp-free-open-source-image-editor-creative-professionals.md) — June 9, 2025
+- [Exploring Fedora KDE on a new Lenovo laptop](testing-fedora-kde-lenovo-v15-laptop.md) — June 2, 2025
+- [Celebrating 20 years of Open Document Format: A milestone for digital freedom](celebrating-20-years-of-open-document-format.md) — May 26, 2025
+- [How UTM makes Linux virtualization easy on Apple Silicon](how-utm-makes-linux-virtualization-easy-on-apple-silicon.md) — May 20, 2025
+- [How to restore Chrome audio on KDE Plasma](how-to-restore-chrome-audio-kde-plasma.md) — May 13, 2025
+- [Capture and annotate Linux screenshots fast with KDE Spectacle](get-started-kde-spectacle-screen-capture.md) — May 7, 2025
+- [How to remove BitLocker encryption and install Linux on a locked laptop](how-to-install-linux-remove-bitlocker-encryption.md) — April 23, 2025
+- [The open source apps I use on macOS for AI, coding, and creativity](open-source-apps-for-ai-coding-creativity-macos.md) — April 16, 2025
+- [What is Openverse?](what-is-openverse.md) — April 9, 2025
+- [Exploring Signal: Open source encryption for modern communication](signal-open-source-message-encryption.md) — March 29, 2025
+- [5 reasons to explore Open Clipart](5-reasons-explore-open-clipart.md) — March 26, 2025
+- [How to put text on a path using Inkscape](inkscape-how-to-put-text-on-a-path.md) — March 18, 2025
+- [10 essential networking commands for sysadmins](10-sysadmin-networking-commands.md) — March 11, 2025
+- [Getting started with Krita: A free digital painting tool for beginners and pros](getting-started-krita-free-digital-painting-tool.md) — February 27, 2025
+- [10 open source tools you can start using today](10-free-open-source-tools-work-privacy-creativity.md) — February 25, 2025
+- [How to quickly build a multi-distribution Linux USB drive with Ventoy](ventoy-how-to-build-multi-distribution-linux-usb-drive.md) — February 20, 2025
+- [My top 5 must-have apps on Fedora 41 KDE Plasma](top-5-fedora-kde-plasma-apps.md) — February 17, 2025
+- [The top Linux, open source, and sysadmin podcasts on my list](top-best-linux-open-source-sysadmin-podcasts.md) — February 11, 2025
+- [ActivityPub explained: The protocol connecting the Fediverse](activitypub-explained-the-protocol-connecting-the-fediverse.md) — February 5, 2025
+- [Pixelfed: The open source alternative to Instagram](pixelfed-the-open-source-alternative-to-instagram.md) — February 3, 2025
+- [Kiwix: The open source solution for offline content delivery](kiwix-open-source-solution-offline-content-delivery.md) — January 31, 2025
+- [How to use the dd command to create bootable Linux drives](dd-command-bootable-linux-drives.md) — January 27, 2025
+- [Getting started with Etherpad: The open source tool for collaboration](getting-started-with-etherpad-the-open-source-tool-for-collaboration.md) — January 20, 2025
+- [How Joplin Web Clipper can organize your web content and keep your data secure](how-joplin-web-clipper-organize-web-content.md) — January 14, 2025
+- [Why Markdown is essential when you are writing for the web](markdown-essential-web-writing.md) — January 7, 2025
+- [5 simple ways to help open source projects without writing code](5-ways-to-help-open-source-projects.md) — December 25, 2024
+- [7 free multimedia and design tool tutorials](top-7-free-multimedia-design-tool-tutorials.md) — December 23, 2024
+- [How to create a holiday card with open source tools](create-card-open-source-tools.md) — December 17, 2024
+- [Open source for the holidays: Free tools to create cards, videos, and more](open-source-free-tools-create-cards-videos.md) — December 10, 2024
+- [Why Joplin is my go-to note-taking app](joplin-open-source-note-taking-app.md) — December 3, 2024
+- [How to remove metadata from photos using ExifCleaner](how-to-remove-metadata-exifcleaner.md) — November 28, 2024
+- [The case for open source solutions in HIPAA](the-case-for-open-source-solutions-in-hipaa.md) — November 21, 2024
+- [How AI is making cancer detection faster and more accurate for doctors](how-ai-making-cancer-detection-faster-accurate.md) — November 18, 2024
+- [Getting started with PhotoCollage tutorial](getting-started-photocollage.md) — November 12, 2024
+- [How to install and utilize Open WebUI](how-to-install-and-utilize-open-webui.md) — November 5, 2024
+- [Maximize your Mastodon experience: Top open source clients I’ve tried](mastodon-experience-top-open-source-clients.md) — October 31, 2024
+- [Exploring Hollama: A minimalist web interface for Ollama](hollama-minimalist-ollama.md) — October 29, 2024
+- [Seamlessly convert Markdown documents to Office formats with Pandoc: A how-to guide](pandoc-convert-markdown-documents-office-formats.md) — October 22, 2024
+- [Harness the power of large language models part 4: Working with an AI chef](power-llm-ollama-part-4.md) — October 15, 2024
+- [A quick guide to create an efficient rubric using genAI](rubric-guide-using-genai.md) — October 10, 2024
+- [Harness the power of large language models part 3: Create your own model with Ollama](power-llm-ollama-part-3.md) — October 8, 2024
+- [Enhance your writing skills with Ollama and Phi3](enhance-writing-skills-ollama-phi3.md) — October 3, 2024
+- [Harness the power of large language models part 2: Working with Ollama](power-llm-ollama-part-2.md) — October 1, 2024
+- [Harness the power of large language models part 1: Getting started with Ollama](power-llm-ollama-part-1.md) — September 25, 2024
+- [Discovering system information with inxi](discover-system-information-inxi.md) — September 18, 2024
+- [5 Linux backup solutions to explore](5-linux-backup-solutions.md) — September 13, 2024
+- [Trying the Cosmic Desktop from System76: A desktop paradigm change](system76-cosmic-desktop.md) — September 5, 2024
+- [Getting started with Handbrake video transcoder](getting-started-handbrake-video-transcoder.md) — August 29, 2024
+- [Linux: The sustainable choice for computing and environmental responsibility](linux-sustainable-environment.md) — July 30, 2024
+- [Explore the intersection of programming and mathematics with Turtle graphics](turtle-graphics.md) — June 26, 2024
+- [Getting started with Etcher.io](getting-started-etcher.md) — June 20, 2024
+- [Getting started with OpenCPN Chart Plotter Navigation](getting-started-opencpn.md) — June 14, 2024
+- [Create stunning images with a few prompts using DiffusionBee](create-images-prompts-diffusionbee.md) — June 5, 2024
+- [Getting started with GnuCash for financial management](getting-started-gnucash.md) — May 29, 2024
+- [Unleashing the power of Homebrew on MacOS](unleash-power-homebrew-macos.md) — May 21, 2024
+- [NextCloud’s long-term vision, data privacy, AI features, and more](nextcloud-vision-data-privacy-ai-features.md) — May 9, 2024
+- [Saving vintage recordings with Linux](save-recordings-ffmpeg.md) — May 2, 2024
+- [Getting started with Upscayl tutorial](upscayl-tutorial.md) — April 26, 2024
+- [Getting started with Stellarium tutorial](stellarium-tutorial.md) — April 18, 2024
+- [Getting started with Llamafile tutorial](getting-started-llamafile-tutorial.md) — April 10, 2024
